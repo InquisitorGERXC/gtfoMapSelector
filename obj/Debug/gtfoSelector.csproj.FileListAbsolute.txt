@@ -1,0 +1,9 @@
+E:\windowsForms\gtfoSelector\obj\Debug\gtfoSelector.Form1.resources
+E:\windowsForms\gtfoSelector\obj\Debug\gtfoSelector.Properties.Resources.resources
+E:\windowsForms\gtfoSelector\obj\Debug\gtfoSelector.csproj.GenerateResource.cache
+E:\windowsForms\gtfoSelector\obj\Debug\gtfoSelector.csproj.CoreCompileInputs.cache
+E:\windowsForms\gtfoSelector\bin\Debug\gtfoSelector.exe.config
+E:\windowsForms\gtfoSelector\bin\Debug\gtfoSelector.exe
+E:\windowsForms\gtfoSelector\bin\Debug\gtfoSelector.pdb
+E:\windowsForms\gtfoSelector\obj\Debug\gtfoSelector.exe
+E:\windowsForms\gtfoSelector\obj\Debug\gtfoSelector.pdb
