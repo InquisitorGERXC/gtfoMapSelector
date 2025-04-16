@@ -68,7 +68,7 @@ namespace gtfoSelector
             labelResult.Text = mapList[currentIndex];
 
             finalIndex = random.Next(mapList.Count);
-
+             
             // 5초 안에 멈추도록 설정
             int totalTimeMs = 5000;
             int intervalStart = 30; // 초기 속도
