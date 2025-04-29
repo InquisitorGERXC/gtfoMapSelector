@@ -72,7 +72,7 @@ namespace gtfoSelector
             // 
             this.btnStart.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnStart.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStart.Location = new System.Drawing.Point(187, 22);
+            this.btnStart.Location = new System.Drawing.Point(275, 20);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(110, 63);
             this.btnStart.TabIndex = 1;
@@ -84,7 +84,7 @@ namespace gtfoSelector
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Consolas", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(496, 574);
+            this.label1.Location = new System.Drawing.Point(497, 573);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(135, 19);
             this.label1.TabIndex = 2;
@@ -332,7 +332,7 @@ namespace gtfoSelector
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(643, 599);
+            this.ClientSize = new System.Drawing.Size(644, 601);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.txtSpeed);
