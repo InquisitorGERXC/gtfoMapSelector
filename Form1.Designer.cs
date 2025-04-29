@@ -304,7 +304,7 @@ namespace gtfoSelector
             this.txtSpeed.Name = "txtSpeed";
             this.txtSpeed.Size = new System.Drawing.Size(46, 22);
             this.txtSpeed.TabIndex = 25;
-            this.txtSpeed.Text = "1";
+            this.txtSpeed.Text = "50";
             // 
             // label7
             // 
@@ -322,9 +322,9 @@ namespace gtfoSelector
             this.label8.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(90, 408);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(108, 19);
+            this.label8.Size = new System.Drawing.Size(117, 19);
             this.label8.TabIndex = 27;
-            this.label8.Text = "default : 1";
+            this.label8.Text = "default : 50";
             // 
             // form1
             // 
